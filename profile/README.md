@@ -10,8 +10,8 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 - :joystick: [spill.iktim.no](https://github.com/VaagenIM/spill.iktim.no) - organisering av spillbibliotek
 
 ### Nyttige repoer
-- :scroll: [devmode-script](https://github.com/VaagenIM/devmode-script) - Aktiver Windows Devmode og løs opp ExecutionPolicy for å bl.a. kunne sette opp Python :snake: Venv
-- :scroll: [wordpress](https://github.com/VaagenIM/wordpress) - Sett opp Wordpress nettside på en Raspberry Pi på 1-2-3
+- :receipt: [devmode-script](https://github.com/VaagenIM/devmode-script) - Aktiver Windows Devmode og løs opp ExecutionPolicy for å bl.a. kunne sette opp Python :snake: Venv
+- :receipt: [wordpress](https://github.com/VaagenIM/wordpress) - Sett opp Wordpress nettside på en Raspberry Pi på 1-2-3
 
 ### Demo prosjekter
 - :electron: [RapidAPI-CovidApp](https://github.com/VaagenIM/RapidAPI-CovidApp) - Enkel javascript demo for å bruke et API i en webapplikasjon
@@ -19,4 +19,5 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 
 ### Oppgave templates
 - :snake: [Oppgave: Sjokolade](https://github.com/VaagenIM/oppgave_sjokolade) - En norsk vri på en velkjent kodeutfordring
+- :memo: [Template: HTML](https://github.com/VaagenIM/template_HTML) - Valider relative lenker og bildestier
 - Flere kommer snart
