@@ -18,4 +18,5 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 - :electron: [JS-UserLogin-Demo](https://github.com/VaagenIM/JS-UserLogin-Demo) - Demo for brukerregistrering i node
 
 ### Oppgave templates
-- Kommer snart
+- :snake: [Oppgave: Sjokolade](https://github.com/VaagenIM/oppgave_sjokolade) - En norsk vri på en velkjent kodeutfordring
+- Flere kommer snart
