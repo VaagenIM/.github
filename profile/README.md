@@ -1,2 +1,21 @@
-# Vågen Informasjonsteknologi og Medieproduksjon (<a href="https://💻🎬.ws">💻🎬.ws</a>)
+# Vågen Informasjonsteknologi og Medieproduksjon 
 Velkommen til vår GitHub side. Her kan du finne noen av ressursene vi bruker og prosjekter vi publiserer.
+
+Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws">💻🎬.ws</a>)
+
+## Repo list
+### Web
+- :house: [iktim.no](https://github.com/VaagenIM/iktim.no) - kildekoden til hjemmesiden
+- :books: [docs.iktim.no](https://github.com/VaagenIM/docs.iktim.no) - en digital åpen fagbok
+- :joystick: [spill.iktim.no](https://github.com/VaagenIM/spill.iktim.no) - organisering av spillbibliotek
+
+### Nyttige repoer
+- :scroll: [devmode-script](https://github.com/VaagenIM/devmode-script) - Aktiver Windows Devmode og løs opp ExecutionPolicy for å bl.a. kunne sette opp Python :snake: Venv
+- :scroll: [wordpress](https://github.com/VaagenIM/wordpress) - Sett opp Wordpress nettside på en Raspberry Pi på 1-2-3
+
+### Demo prosjekter
+- :electron: [RapidAPI-CovidApp](https://github.com/VaagenIM/RapidAPI-CovidApp) - Enkel javascript demo for å bruke et API i en webapplikasjon
+- :electron: [JS-UserLogin-Demo](https://github.com/VaagenIM/JS-UserLogin-Demo) - Demo for brukerregistrering i node
+
+### Oppgave templates
+- Kommer snart
