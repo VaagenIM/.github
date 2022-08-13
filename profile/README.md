@@ -4,10 +4,11 @@ Velkommen til vår GitHub side. Her kan du finne noen av ressursene vi bruker og
 Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws">💻🎬.ws</a>)
 
 ## Repo list
-### Web
+### Pinned
 - :house: [iktim.no](https://github.com/VaagenIM/iktim.no) - kildekoden til hjemmesiden
 - :books: [docs.iktim.no](https://github.com/VaagenIM/docs.iktim.no) - en digital åpen fagbok
 - :joystick: [spill.iktim.no](https://github.com/VaagenIM/spill.iktim.no) - organisering av spillbibliotek
+- :file_folder: [files](https://github.com/VaagenIM/files) - statiske filer for læringressurser
 
 ### Nyttige repoer
 - :receipt: [devmode-script](https://github.com/VaagenIM/devmode-script) - Aktiver Windows Devmode og løs opp ExecutionPolicy for å bl.a. kunne sette opp Python :snake: Venv
