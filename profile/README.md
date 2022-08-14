@@ -8,6 +8,7 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 - :house: [iktim.no](https://github.com/VaagenIM/iktim.no) - kildekoden til hjemmesiden
 - :books: [docs.iktim.no](https://github.com/VaagenIM/docs.iktim.no) - en digital åpen fagbok
 - :joystick: [spill.iktim.no](https://github.com/VaagenIM/spill.iktim.no) - organisering av spillbibliotek
+- :game_die: [arcade.iktim.no](https://github.com/VaagenIM/arcade.iktim.no) - en kolleksjon av utviklede spill (WIP)
 - :file_folder: [files](https://github.com/VaagenIM/files) - statiske filer for læringressurser
 
 ### Nyttige repoer
