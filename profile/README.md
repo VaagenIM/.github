@@ -21,4 +21,5 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 ### Oppgave templates
 - :snake: [Oppgave: Sjokolade](https://github.com/VaagenIM/oppgave_sjokolade) - En norsk vri på en velkjent kodeutfordring
 - :memo: [Template: HTML](https://github.com/VaagenIM/template_HTML) - Valider relative lenker og bildestier
+- :joystick: [Template: Godot Publish](https://github.com/VaagenIM/template_godot_publish) - Automatisk publiser et Godot prosjekt på GitHub pages
 - Flere kommer snart
