@@ -20,6 +20,7 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 - :electron: [JS-UserLogin-Demo](https://github.com/VaagenIM/JS-UserLogin-Demo) - Demo for brukerregistrering i node
 
 ### Oppgave templates
+- :wave: [Oppgave: GitHub Intro, Hello World](https://github.com/VaagenIM/template_GitHubIntro_HelloWorld) - Din aller første repo
 - :snake: [Oppgave: Sjokolade](https://github.com/VaagenIM/oppgave_sjokolade) - En norsk vri på en velkjent kodeutfordring
 - :memo: [Template: HTML](https://github.com/VaagenIM/template_HTML) - Valider relative lenker og bildestier
 - <img height="18" src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png"> [Template: Godot Publish](https://github.com/VaagenIM/template_godot_publish) - Automatisk publiser et Godot prosjekt på GitHub pages
