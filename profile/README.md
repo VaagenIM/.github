@@ -1,4 +1,4 @@
-# Vågen Informasjonsteknologi og Medieproduksjon 
+# Vågen Informasjonsteknologi og Medieproduksjon
 Velkommen til vår GitHub side. Her kan du finne noen av ressursene vi bruker og prosjekter vi publiserer.
 
 Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws">💻🎬.ws</a>)
@@ -19,6 +19,7 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 ### Demo prosjekter
 - :electron: [RapidAPI-CovidApp](https://github.com/VaagenIM/RapidAPI-CovidApp) - Enkel javascript demo for å bruke et API i en webapplikasjon
 - :electron: [JS-UserLogin-Demo](https://github.com/VaagenIM/JS-UserLogin-Demo) - Demo for brukerregistrering i node
+- :basecamp: [HTML Template 2022](https://github.com/VaagenIM/html-template-09-2022) - Enkel HTML og CSS mal med flere sider ([Demo](https://vaagenim.github.io/html-template-09-2022/))
 
 ### Oppgave templates
 - :wave: [Oppgave: GitHub Intro, Hello World](https://github.com/VaagenIM/template_GitHubIntro_HelloWorld) - Din aller første repo
