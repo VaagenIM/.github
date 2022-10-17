@@ -27,3 +27,5 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 - :memo: [Template: HTML](https://github.com/VaagenIM/template_HTML) - Valider relative lenker og bildestier
 - <img height="18" src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png"> [Template: Godot Publish](https://github.com/VaagenIM/template_godot_publish) - Automatisk publiser et Godot prosjekt på GitHub pages
 - Flere kommer snart
+- :snake: [Template: Python Basic](https://github.com/VaagenIM/template_python_basic) - Et enkelt oppsett for Python prosjekter, uten testing.
+- :snake: [Template: Python Advanced](https://github.com/VaagenIM/template_python_advanced) - Et avanset oppsett for Python prosjekter, inkl. testing & dotenv.
