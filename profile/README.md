@@ -25,6 +25,7 @@ Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws"
 ### Oppgave templates
 - :wave: [Oppgave: GitHub Intro, Hello World](https://github.com/VaagenIM/template_GitHubIntro_HelloWorld) - Din aller første repo
 - :snake: [Oppgave: Sjokolade](https://github.com/VaagenIM/oppgave_sjokolade) - En norsk vri på en velkjent kodeutfordring
+- :snake: [Oppgave: Unit Tests](https://github.com/VaagenIM/oppgave_unit-tests) - Skriv tester for å vite om koden fungerer slik den skal!
 - :memo: [Template: HTML](https://github.com/VaagenIM/template_HTML) - Valider relative lenker og bildestier
 - <img height="18" src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png"> [Template: Godot Publish](https://github.com/VaagenIM/template_godot_publish) - Automatisk publiser et Godot prosjekt på GitHub pages
 - :snake: [Template: Python Basic](https://github.com/VaagenIM/template_python_basic) - Et enkelt oppsett for Python prosjekter, uten testing.
