@@ -1,7 +1,7 @@
 # Vågen Informasjonsteknologi og Medieproduksjon
 Velkommen til vår GitHub side. Her kan du finne noen av ressursene vi bruker og prosjekter vi publiserer.
 
-Du finner vår nettside på https://iktim.no (alt: <a href="https://💻🎬.ws">💻🎬.ws</a>)
+Du finner vår nettside på https://iktim.no
 
 ## Repo list
 ### Pinned
