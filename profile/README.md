@@ -22,6 +22,10 @@ Du finner vår nettside på https://iktim.no
 - :electron: [JS-UserLogin-Demo](https://github.com/VaagenIM/JS-UserLogin-Demo) - Demo for brukerregistrering i node
 - :basecamp: [HTML Template 2022](https://github.com/VaagenIM/html-template-09-2022) - Enkel HTML og CSS mal med flere sider ([Demo](https://vaagenim.github.io/html-template-09-2022/))
 
+### Interne prosjekter
+- :card_file_box: [FeideUtstyrbase](https://github.com/sondregronas/FeideUtstyrbase) - Inventar og bookingssystem med Feide innlogging
+- :label: [EtikettServer](https://github.com/VaagenIM/EtikettServer) - API for generering og printing av etiketter
+
 ### Oppgave templates
 - :wave: [Oppgave: GitHub Intro, Hello World](https://github.com/VaagenIM/template_GitHubIntro_HelloWorld) - Din aller første repo
 - :snake: [Oppgave: Sjokolade](https://github.com/VaagenIM/oppgave_sjokolade) - En norsk vri på en velkjent kodeutfordring
