@@ -10,6 +10,7 @@ Du finner vår nettside på https://iktim.no
 - :man_teacher: [slides.iktim.no](https://github.com/VaagenIM/slides.iktim.no) - åpne presentasjoner
 - :snake: [jupyter.iktim.no](https://github.com/VaagenIM/jupyter.iktim.no) - python arbeidsbøker (Jupyter)
 - :joystick: [spill.iktim.no](https://github.com/sondregronas/EduGameDist) - organisering av spillbibliotek
+- :package: [utstyr.iktim.no](https://github.com/sondregronas/FeideUtstyrbase) - booking & administreringssystem for utstyrslager
 - :game_die: [arcade.iktim.no](https://github.com/VaagenIM/arcade.iktim.no) - en kolleksjon av utviklede spill (WIP)
 - :file_folder: [files](https://github.com/VaagenIM/files) - statiske filer for læringressurser
 
