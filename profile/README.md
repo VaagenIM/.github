@@ -7,6 +7,7 @@ Du finner vår nettside på https://iktim.no
 ### Pinned
 - :house: [iktim.no](https://github.com/VaagenIM/iktim.no) - kildekoden til hjemmesiden
 - :books: [docs.iktim.no](https://github.com/VaagenIM/docs.iktim.no) - en digital åpen fagbok
+- :pig: [piggy.iktim.no](https://github.com/VaagenIM/piggy.iktim.no) - oppgavebanken for IM & IKT
 - :man_teacher: [slides.iktim.no](https://github.com/VaagenIM/slides.iktim.no) - åpne presentasjoner
 - :snake: [jupyter.iktim.no](https://github.com/VaagenIM/jupyter.iktim.no) - python arbeidsbøker (Jupyter)
 - :joystick: [spill.iktim.no](https://github.com/sondregronas/EduGameDist) - organisering av spillbibliotek
