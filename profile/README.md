@@ -27,6 +27,7 @@ Du finner vår nettside på https://iktim.no
 ### Interne prosjekter
 - :card_file_box: [FeideUtstyrbase](https://github.com/sondregronas/FeideUtstyrbase) - Inventar og bookingssystem med Feide innlogging
 - :label: [EtikettServer](https://github.com/VaagenIM/EtikettServer) - API for generering og printing av etiketter
+- 🐟 [fishtank](https://github.com/VaagenIM/fishtank) - Skript for re-tanking av maskiner
 
 ### Oppgave templates
 - :wave: [Oppgave: GitHub Intro, Hello World](https://github.com/VaagenIM/template_GitHubIntro_HelloWorld) - Din aller første repo
